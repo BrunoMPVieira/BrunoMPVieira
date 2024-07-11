@@ -5,7 +5,7 @@
 [![HTML](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 [![CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
-
+[![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 ![Bruno Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMPVieira&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia 🚀
