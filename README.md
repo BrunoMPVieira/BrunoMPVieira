@@ -4,7 +4,7 @@
 
 
 ### Tecnologias que uso no meu dia 🚀
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
+[![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 [![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/bruno-vieira-b52ba8174/)
