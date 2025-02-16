@@ -1,7 +1,4 @@
 ### Olá! Eu sou o Bruno Macedo ✌️
-
-![Bruno Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMPVieira&show_icons=true&theme=dracula)
-
 ### Entusiasta de Tecnologia e Desenvolvimento de Software 🌐
 
 👨‍💻 Sou apaixonado por explorar novas tecnologias e criar soluções inovadoras no campo do desenvolvimento de software. Com uma base sólida em Desenvolvimento Web, Node.js, HTML, CSS, JavaScript, Electron.js, MongoDB, Firebase, React Vite e Tailwind CSS, estou comprometido em alcançar excelência em cada projeto que empreendo.
